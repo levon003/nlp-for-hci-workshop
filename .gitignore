@@ -2,6 +2,7 @@
 data/
 language-modeling/*.count
 language-modeling/*.count.sorted
+language-modeling/*.lm
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
