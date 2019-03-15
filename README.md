@@ -16,7 +16,9 @@ Slides: https://z.umn.edu/nlpWorkshop2019Slides
 4. Some notebooks will require the installation of additional software tools.
 
     Python packages: Gensim, SpaCy
+    
     Other software: SRILM, Vowpal Wabbit
+
 
 Short link to this repository: https://z.umn.edu/nlpWorkshop2019
 
